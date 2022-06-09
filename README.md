@@ -4,7 +4,7 @@
 
 ---
 
-I write and post articles on my [blog](https://erudinsky.com/) sometimes. I publish video every weekend on my [youtube channel](https://www.youtube.com/channel/UCy-6VQP7u-94NIXI_-2Tnxg) which is called Weekend Sprints (yes, I like to experiment with my work over the weekend as well). 🚀
+I write and post articles on my [blog](https://erudinsky.com/) sometimes. I publish video every weekend on my [youtube channel](https://www.youtube.com/channel/UCy-6VQP7u-94NIXI_-2Tnxg) which is called Weekend Sprints (yes, I like to experiment with my work over the weekend as well) 🚀
 
 btw, subscribe to my [Weekend Sprints 's newsletter](https://weekendsprints.nl/), it includes brief on my weekend plans!
 
