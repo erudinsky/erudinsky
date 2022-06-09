@@ -11,6 +11,10 @@ I write and post article on my [blog](https://erudinsky.com/) sometimes. I publi
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Authenticate w/ Azure Container Registry from Azure Kubernetes Service &lpar;or fixing ImagePullBackOff&rpar;](https://www.youtube.com/watch?v=XXi9wwi0tQE)
+- [3. CRUD vue.js using Azure Static Web Application service](https://www.youtube.com/watch?v=q-6nQ1dh_7c)
+- [2. CRUD Python/Flask with PostgreSQL on Azure](https://www.youtube.com/watch?v=DjsLn-S43sA)
+- [1. Dockerized Flask with Gunicorn | Build and deploy full stack application in Azure with Bicep](https://www.youtube.com/watch?v=nrXEnrV-ZSM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
