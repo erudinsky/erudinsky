@@ -34,3 +34,5 @@ I write and post article on my [blog](https://erudinsky.com/) sometimes. I publi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erudinsky&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=erudinsky&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+Thank you! 👋 
