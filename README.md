@@ -35,7 +35,7 @@ btw, subscribe to my [Weekend Sprints 's newsletter](https://weekendsprints.nl/)
 - [Authenticate With Azure Container Registry From Azure Kubernetes Service](https://erudinsky.com/2021/10/10/authenticate-with-azure-container-registry-from-azure-kubernetes-service/)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://erudinsky.tech)
+▶ [...more blog articles](https://erudinsky.com)
 
 ---
 
