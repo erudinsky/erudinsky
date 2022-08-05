@@ -1,7 +1,7 @@
 ### Hi, my name is Evgeny Rudinsky ...  👋 
 
 [![GitHub followers](https://img.shields.io/github/followers/erudinsky?style=social)](https://github.com/erudinsky) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/evgenyrudinsky?style=social)](https://twitter.com/evgenyrudinsky) [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/erudinsky?style=social)](https://www.reddit.com/user/erudinsky/) ![YouTube Channel Views](https://img.shields.io/twitter/follow/evgenyrudinsky?style=social)](https://twitter.com/evgenyrudinsky) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCy-6VQP7u-94NIXI_-2Tnxg?style=social)](https://www.youtube.com/channel/UCy-6VQP7u-94NIXI_-2Tnxg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/evgenyrudinsky?style=social)](https://twitter.com/evgenyrudinsky) [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/erudinsky?style=social)](https://www.reddit.com/user/erudinsky/) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCy-6VQP7u-94NIXI_-2Tnxg?label=total%20%23%20of%20views%20of%20my%20channel&style=social) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCy-6VQP7u-94NIXI_-2Tnxg?style=social)](https://www.youtube.com/channel/UCy-6VQP7u-94NIXI_-2Tnxg)
 
 ---
 
