@@ -43,8 +43,8 @@ btw, subscribe to my [Weekend Sprints 's newsletter](https://weekendsprints.nl/)
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erudinsky&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erudinsky&hide=java,html,css&theme=radical)](https://github.com/erudinsky/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=erudinsky&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Evgeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=erudinsky&theme=radical)](https://github.com/erudinsky/github-readme-stats)
 
 Thank you! 👋 
