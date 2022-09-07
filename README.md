@@ -30,7 +30,7 @@ btw, subscribe to my [Weekend Sprints 's newsletter](https://weekendsprints.nl/)
 <!-- BLOG-POST-LIST:START -->
 - [How to make your own self-hosted VPN server using OpenVPN](https://erudinsky.com/2022/03/11/how-to-make-your-own-self-hosted-vpn-server-using-openvpn/)
 - [Quality controls in Azure DevOps with Prisma Cloud](https://erudinsky.com/2022/01/21/quality-controls-in-azure-devops-with-prisma-cloud/)
-- [Azure resource governance with project Bicep and Template Specs](https://erudinsky.com/2022/01/14/azure-resource-governance-with-project-bicep-and-template-specs/)
+- [Azure resource governance with project Bicep and template specs](https://erudinsky.com/2022/01/14/azure-resource-governance-with-project-bicep-and-template-specs/)
 - [Static web site on Azure with Azure DevOps and Bicep](https://erudinsky.com/2022/01/07/static-web-site-on-azure-with-azure-devops-and-bicep/)
 - [Authenticate With Azure Container Registry From Azure Kubernetes Service](https://erudinsky.com/2021/10/10/authenticate-with-azure-container-registry-from-azure-kubernetes-service/)
 <!-- BLOG-POST-LIST:END -->
