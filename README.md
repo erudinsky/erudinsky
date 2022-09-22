@@ -30,6 +30,7 @@ btw, subscribe to my [Weekend Sprints 's newsletter](https://weekendsprints.nl/)
 <!-- BLOG-POST-LIST:START -->
 - [Azure Policy as code with Bicep](https://erudinsky.com/2022/09/20/azure-policy-as-code-with-bicep/)
 - [How to build and deploy to Azure with GitLab](https://erudinsky.com/2022/09/08/how-to-build-and-deploy-to-azure-with-gitlab/)
+- [About](https://erudinsky.com/about/)
 - [How to make your own self-hosted VPN server using OpenVPN](https://erudinsky.com/2022/03/11/how-to-make-your-own-self-hosted-vpn-server-using-openvpn/)
 - [Quality controls in Azure DevOps with Prisma Cloud](https://erudinsky.com/2022/01/21/quality-controls-in-azure-devops-with-prisma-cloud/)
 <!-- BLOG-POST-LIST:END -->
