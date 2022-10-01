@@ -35,29 +35,4 @@
 
 ---
 
-<<<<<<< HEAD
-=======
-📘 Latest Blog Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [Azure Policy as code with Bicep](https://erudinsky.com/2022/09/20/azure-policy-as-code-with-bicep/)
-- [How to build and deploy to Azure with GitLab](https://erudinsky.com/2022/09/08/how-to-build-and-deploy-to-azure-with-gitlab/)
-- [How to make your own self-hosted VPN server using OpenVPN](https://erudinsky.com/2022/03/11/how-to-make-your-own-self-hosted-vpn-server-using-openvpn/)
-- [Quality controls in Azure DevOps with Prisma Cloud](https://erudinsky.com/2022/01/21/quality-controls-in-azure-devops-with-prisma-cloud/)
-- [Azure resource governance with project Bicep and template specs](https://erudinsky.com/2022/01/14/azure-resource-governance-with-project-bicep-and-template-specs/)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [...more blog articles](https://erudinsky.com)
-
----
-
----
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erudinsky&hide=java,html,css&theme=radical)](https://github.com/erudinsky/github-readme-stats)
-
-[![Evgeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=erudinsky&theme=radical)](https://github.com/erudinsky/github-readme-stats)
-
->>>>>>> 561c8b758144eff1e95c24d974722aa5937160a3
 Thank you! 👋 
