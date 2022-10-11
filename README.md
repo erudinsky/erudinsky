@@ -5,7 +5,7 @@
 * Check out my resume and follow for update [here](https://www.linkedin.com/in/evgenyrudinsky/) 🤘
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/evgenyrudinsky)
-[![Follow @erudinsky on GitHub](https://img.shields.io/github/followers/erudinsky?label=follow%20%erudinsky&style=social)](https://github.com/erudinsky)
+[![Follow @erudinsky on GitHub](https://img.shields.io/github/followers/erudinsky?label=follow%20erudinsky&style=social)](https://github.com/erudinsky)
 [![Twitter on Follow](https://img.shields.io/twitter/follow/evgenyrudinsky?style=social)](https://twitter.com/evgenyrudinsky)
 
 ---
