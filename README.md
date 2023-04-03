@@ -13,11 +13,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [I am joining GitLab](https://erudinsky.com/2023/04/03/i-am-joining-gitlab/)
 - [Static site with Hugo and Gitlab Pages](https://erudinsky.com/2022/09/30/static-site-with-hugo-and-gitlab-pages/)
 - [Azure Policy as code with Bicep](https://erudinsky.com/2022/09/20/azure-policy-as-code-with-bicep/)
 - [How to build and deploy to Azure with GitLab](https://erudinsky.com/2022/09/08/how-to-build-and-deploy-to-azure-with-gitlab/)
 - [How to make your own self-hosted VPN server using OpenVPN](https://erudinsky.com/2022/03/11/how-to-make-your-own-self-hosted-vpn-server-using-openvpn/)
-- [Quality controls in Azure DevOps with Prisma Cloud](https://erudinsky.com/2022/01/21/quality-controls-in-azure-devops-with-prisma-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://erudinsky.com)
