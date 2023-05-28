@@ -27,6 +27,7 @@
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Prometheus &amp; Grafana, getting started](https://www.youtube.com/watch?v=Xmg8APTINOk)
 - [Authenticate w/ Azure Container Registry from Azure Kubernetes Service &lpar;or fixing ImagePullBackOff&rpar;](https://www.youtube.com/watch?v=XXi9wwi0tQE)
 - [3. CRUD vue.js using Azure Static Web Application service](https://www.youtube.com/watch?v=q-6nQ1dh_7c)
 - [2. CRUD Python/Flask with PostgreSQL on Azure](https://www.youtube.com/watch?v=DjsLn-S43sA)
