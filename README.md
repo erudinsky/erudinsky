@@ -27,11 +27,11 @@
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Scholar’s mate - your daily dose of checkmate 🤙 #checkmate #детскиймат](https://www.youtube.com/watch?v=sH0mpCZKFeA)
 - [Keychron k3 rainbow 🌈 #keychron #rainbow](https://www.youtube.com/watch?v=ijYr909yofI)
 - [Your daily dose of checkmate ♟️ #chess #checkmate](https://www.youtube.com/watch?v=8ibT8guSoC8)
 - [Prometheus &amp; Grafana, getting started](https://www.youtube.com/watch?v=Xmg8APTINOk)
 - [Authenticate w/ Azure Container Registry from Azure Kubernetes Service &lpar;or fixing ImagePullBackOff&rpar;](https://www.youtube.com/watch?v=XXi9wwi0tQE)
-- [3. CRUD vue.js using Azure Static Web Application service](https://www.youtube.com/watch?v=q-6nQ1dh_7c)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
