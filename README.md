@@ -13,11 +13,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Structuring terraform projects](https://erudinsky.com/2023/10/20/structuring-terraform-projects/)
 - [I am joining GitLab](https://erudinsky.com/2023/04/03/i-am-joining-gitlab/)
 - [Building GitLab demo - part 1](https://erudinsky.com/2022/10/28/building-gitlab-demo-part-1/)
 - [Static site with Hugo and Gitlab Pages](https://erudinsky.com/2022/09/30/static-site-with-hugo-and-gitlab-pages/)
 - [Azure Policy as code with Bicep](https://erudinsky.com/2022/09/20/azure-policy-as-code-with-bicep/)
-- [How to build and deploy to Azure with GitLab](https://erudinsky.com/2022/09/08/how-to-build-and-deploy-to-azure-with-gitlab/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://erudinsky.com)
