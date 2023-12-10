@@ -1,4 +1,4 @@
-My name is Evgeny Rudinsky. I live in The Netherlands. I am an engineer at [GitLab](https://gitlab.com/). Passion for Application Security, Automation and DevOps. Outside of being infront of a laptop at work I am a windsurfer occasional youtuber and blogger. There is extended [bio](https://erudinsky.com/about/).
+My name is Evgeny Rudinsky. I live in The Netherlands. I am an engineer at [GitLab](https://gitlab.com/). Passion for Application Security, Automation and DevOps. Outside of being infront of a laptop at work I am a windsurfer, occasional youtuber and blogger. There is extended [bio](https://erudinsky.com/about/).
 
 ### 🍿 Open Source Software Projects
 
