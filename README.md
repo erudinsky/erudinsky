@@ -1,16 +1,18 @@
-### Hi, my name is Evgeny Rudinsky ...  
+My name is Evgeny Rudinsky. I live in The Netherlands. I am an engineer at [GitLab](https://gitlab.com/). Passion for Application Security, Automation and DevOps. Outside of being infront of a laptop at work I am a windsurfer occasional youtuber and blogger. There is extended [bio](https://erudinsky.com/about/).
 
-* Check out [Azure Bicep Workshop](https://github.com/erudinsky/Azure-Bicep-Workshop) 💪
-* Check out my bio [here](https://erudinsky.com/about/) 👈
-* Check out my resume and follow for update [here](https://www.linkedin.com/in/evgenyrudinsky/) 🤘
+### 🍿 Open Source Software Projects
 
-[![@evgenyrudinsky on LinkedIn](https://img.shields.io/badge/--linkedin?label=@evgenyrudinsky&logo=LinkedIn&style=social)](https://www.linkedin.com/in/evgenyrudinsky)
-[![@erudinsky on GitHub](https://img.shields.io/github/followers/erudinsky?label=@erudinsky&style=social)](https://github.com/erudinsky)
-[![@evgenyrudinsky on Twitter](https://img.shields.io/twitter/follow/evgenyrudinsky?label=@evgenyrudinsky&style=social)](https://twitter.com/evgenyrudinsky)
+Below lists a few of the open source projects I have been involved in. These span across several areas, mainly were kicked off over a weekend while learning something new for a purpose of personal enablement.
+
+1. [Azure Bicep Workshop](https://github.com/erudinsky/Azure-Bicep-Workshop)
+2. [A utility for generate on Azure DevOps usage](https://gitlab.com/erudinsky/evaluatador)
+3. [A utility to solve Hanoi Tower problem of any size](https://gitlab.com/evgenyrudinsky/hanoi)
 
 ---
 
-📘 Latest Blog Articles
+### 📝 Blog Posts
+
+As mentioned above I love to blog, mostly around Application Security, Automation and DevOps. Below you can check out a few of my more recent posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Structuring terraform projects](https://erudinsky.com/2023/10/20/structuring-terraform-projects/)
@@ -24,7 +26,9 @@
 
 ---
 
-📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos
+
+Some of my blog posts I accompany with video, these are the most recent:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Scholar’s mate - your daily dose of checkmate 🤙 #checkmate #детскиймат](https://www.youtube.com/watch?v=sH0mpCZKFeA)
@@ -35,8 +39,14 @@
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
-▶ [...more YouTube videos](https://www.youtube.com/channel/UCy-6VQP7u-94NIXI_-2Tnxg?sub_confirmation=1)
+▶ [...more YouTube videos](https://www.youtube.com/@weekendsprints?sub_confirmation=1)
 
----
+### 💬 Contact
 
-Thank you! 👋 
+Please feel free to reach out to me using any of the below methods:
+
+* [Blog](https://erudinsky.com/)
+* [LinkedIn](https://www.linkedin.com/in/evgenyrudinsky/)
+* [Twitter](https://twitter.com/evgenyrudinsky)
+
+👋
