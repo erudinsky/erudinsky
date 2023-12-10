@@ -8,8 +8,6 @@ Below lists a few of the open source projects I have been involved in. These spa
 2. [A utility for generate on Azure DevOps usage](https://gitlab.com/erudinsky/evaluatador)
 3. [A utility to solve Hanoi Tower problem of any size](https://gitlab.com/evgenyrudinsky/hanoi)
 
----
-
 ### 📝 Blog Posts
 
 As mentioned above I love to blog, mostly around Application Security, Automation and DevOps. Below you can check out a few of my more recent posts:
@@ -23,8 +21,6 @@ As mentioned above I love to blog, mostly around Application Security, Automatio
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://erudinsky.com)
-
----
 
 ### 📺 Latest YouTube Videos
 
@@ -48,5 +44,3 @@ Please feel free to reach out to me using any of the below methods:
 * [Blog](https://erudinsky.com/)
 * [LinkedIn](https://www.linkedin.com/in/evgenyrudinsky/)
 * [Twitter](https://twitter.com/evgenyrudinsky)
-
-👋
