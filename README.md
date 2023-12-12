@@ -1,12 +1,12 @@
-My name is Evgeny Rudinsky. I live in The Netherlands. I am an engineer at [GitLab](https://gitlab.com/). Passion for Application Security, Automation and DevOps. Outside of being infront of a laptop at work I am a windsurfer, occasional youtuber and blogger. There is extended [bio](https://erudinsky.com/about/).
+My name is Evgeny Rudinsky. I live in The Netherlands. I am an engineer at [GitLab](https://gitlab.com/). Passion for Application Security, Automation and DevOps. Outside of being in front of a laptop at work I am a windsurfer, occasional youtuber and blogger. There is an extended [bio](https://erudinsky.com/about/).
 
 ### 🍿 Open Source Software Projects
 
 Below lists a few of the open source projects I have been involved in. These span across several areas, mainly were kicked off over a weekend while learning something new for a purpose of personal enablement.
 
 1. [Azure Bicep Workshop](https://github.com/erudinsky/Azure-Bicep-Workshop)
-2. [A utility for generate on Azure DevOps usage](https://gitlab.com/erudinsky/evaluatador)
-3. [A utility to solve Hanoi Tower problem of any size](https://gitlab.com/evgenyrudinsky/hanoi)
+2. [An utility to generate usage report on Azure DevOps](https://gitlab.com/erudinsky/evaluatador)
+3. [An utility to solve Hanoi Tower problem of any size](https://gitlab.com/evgenyrudinsky/hanoi)
 
 ### 📝 Blog Posts
 
