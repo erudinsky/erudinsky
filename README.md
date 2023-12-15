@@ -28,11 +28,11 @@ As mentioned above I love to blog, mostly around Application Security, Automatio
 Some of my blog posts I accompany with video, these are the most recent:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [15 December 2023](https://www.youtube.com/watch?v=g3BfclbbpCI)
 - [Scholar’s mate - your daily dose of checkmate 🤙 #checkmate #детскиймат](https://www.youtube.com/watch?v=sH0mpCZKFeA)
 - [Keychron k3 rainbow 🌈 #keychron #rainbow](https://www.youtube.com/watch?v=ijYr909yofI)
 - [Your daily dose of checkmate ♟️ #chess #checkmate](https://www.youtube.com/watch?v=8ibT8guSoC8)
 - [Prometheus &amp; Grafana, getting started](https://www.youtube.com/watch?v=Xmg8APTINOk)
-- [Authenticate w/ Azure Container Registry from Azure Kubernetes Service &lpar;or fixing ImagePullBackOff&rpar;](https://www.youtube.com/watch?v=XXi9wwi0tQE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
