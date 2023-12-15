@@ -28,7 +28,7 @@ As mentioned above I love to blog, mostly around Application Security, Automatio
 Some of my blog posts I accompany with video, these are the most recent:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [15 December 2023](https://www.youtube.com/watch?v=g3BfclbbpCI)
+- [Building Rubik’s cube in under 60s &lpar;timelapse 😉&rpar; #rubikscube #timelapse](https://www.youtube.com/watch?v=1B8R517zMVE)
 - [Scholar’s mate - your daily dose of checkmate 🤙 #checkmate #детскиймат](https://www.youtube.com/watch?v=sH0mpCZKFeA)
 - [Keychron k3 rainbow 🌈 #keychron #rainbow](https://www.youtube.com/watch?v=ijYr909yofI)
 - [Your daily dose of checkmate ♟️ #chess #checkmate](https://www.youtube.com/watch?v=8ibT8guSoC8)
