@@ -8,6 +8,7 @@ Below lists a few of the open source projects I have been involved in. These spa
 2. [An utility to generate usage report on Azure DevOps](https://gitlab.com/erudinsky/evaluatador)
 3. [An utility to solve Hanoi Tower problem of any size](https://gitlab.com/evgenyrudinsky/hanoi)
 4. [Operations cheat sheets](https://github.com/erudinsky/cheat-sheets)
+5. [Congregate](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/)
 
 ### 📝 Blog Posts
 
