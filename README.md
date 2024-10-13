@@ -15,11 +15,11 @@ Below lists a few of the open source projects I have been involved in. These spa
 As mentioned above I love to blog, mostly around Application Security, Automation and DevOps. Below you can check out a few of my more recent posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Azure DevOps API: Retrieving Project Administrator Team Members](https://erudinsky.com/2024/10/09/navigating-azure-devops-api-retrieving-project-administrator-team-members/)
 - [Leverage GitLab CI/CD Components for deployments in Azure](https://erudinsky.com/2024/05/26/leverage-gitlab-ci/cd-components-for-deployments-in-azure/)
 - [Structuring terraform projects](https://erudinsky.com/2023/10/20/structuring-terraform-projects/)
 - [I am joining GitLab](https://erudinsky.com/2023/04/03/i-am-joining-gitlab/)
 - [Building GitLab demo - part 1](https://erudinsky.com/2022/10/28/building-gitlab-demo-part-1/)
-- [Static site with Hugo and Gitlab Pages](https://erudinsky.com/2022/09/30/static-site-with-hugo-and-gitlab-pages/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://erudinsky.com)
