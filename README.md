@@ -15,11 +15,11 @@ Below lists a few of the open source projects I have been involved in. These spa
 As mentioned above I love to blog, mostly around Application Security, Automation and DevOps. Below you can check out a few of my more recent posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure SPN for automation](https://erudinsky.com/2024/12/31/azure-spn-for-automation/)
-- [Navigating Azure DevOps API: Retrieving Project Administrator Team Members](https://erudinsky.com/2024/10/09/navigating-azure-devops-api-retrieving-project-administrator-team-members/)
-- [Leverage GitLab CI/CD Components for deployments in Azure](https://erudinsky.com/2024/05/26/leverage-gitlab-ci/cd-components-for-deployments-in-azure/)
-- [Structuring terraform projects](https://erudinsky.com/2023/10/20/structuring-terraform-projects/)
-- [I am joining GitLab](https://erudinsky.com/2023/04/03/i-am-joining-gitlab/)
+- [How to Deploy a Vue.js Static Site with Azure Developer CLI &lpar;azd&rpar;](https://evgenyrudinsky.gitlab.io/2025/04/28/how-to-deploy-a-vue.js-static-site-with-azure-developer-cli-azd/)
+- [Azure SPN for automation](https://evgenyrudinsky.gitlab.io/2024/12/31/azure-spn-for-automation/)
+- [Navigating Azure DevOps API: Retrieving Project Administrator Team Members](https://evgenyrudinsky.gitlab.io/2024/10/09/navigating-azure-devops-api-retrieving-project-administrator-team-members/)
+- [Leverage GitLab CI/CD Components for deployments in Azure](https://evgenyrudinsky.gitlab.io/2024/05/26/leverage-gitlab-ci/cd-components-for-deployments-in-azure/)
+- [Structuring terraform projects](https://evgenyrudinsky.gitlab.io/2023/10/20/structuring-terraform-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://erudinsky.com)
