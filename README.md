@@ -29,11 +29,11 @@ As mentioned above I love to blog, mostly around Application Security, Automatio
 Some of my blog posts I accompany with video, these are the most recent:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Solving Hanoi tower problem in 16 seconds with GitLab Duo :&rpar;](https://www.youtube.com/watch?v=aYk9WfhozxU)
 - [Building Rubik’s cube in under 60s &lpar;timelapse 😉&rpar; #rubikscube #timelapse](https://www.youtube.com/watch?v=1B8R517zMVE)
 - [Scholar’s mate - your daily dose of checkmate 🤙 #checkmate #детскиймат](https://www.youtube.com/watch?v=sH0mpCZKFeA)
 - [Keychron k3 rainbow 🌈 #keychron #rainbow](https://www.youtube.com/watch?v=ijYr909yofI)
 - [Your daily dose of checkmate ♟️ #chess #checkmate](https://www.youtube.com/watch?v=8ibT8guSoC8)
-- [Prometheus &amp; Grafana, getting started](https://www.youtube.com/watch?v=Xmg8APTINOk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
