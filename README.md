@@ -15,11 +15,11 @@ Below lists a few of the open source projects I have been involved in. These spa
 As mentioned above I love to blog, mostly around Application Security, Automation and DevOps. Below you can check out a few of my more recent posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Foundry Bicep Deep Dive: Networking, RBAC, and Deployment Types](https://erudinsky.com/2026/06/01/microsoft-foundry-bicep-deep-dive-networking-rbac-deployment-types/)
 - [Getting Started with Microsoft Foundry: Product Descriptions with GPT](https://erudinsky.com/2026/05/21/getting-started-with-microsoft-foundry-product-descriptions-with-gpt/)
 - [Two years as a Microsoft MVP: reflecting on the journey](https://erudinsky.com/2026/05/03/two-years-as-a-microsoft-mvp-reflecting-on-the-journey/)
 - [Bicep Lint in GitLab CI with Code Quality](https://erudinsky.com/2026/02/03/bicep-lint-in-gitlab-ci-with-code-quality/)
 - [Azure Verified Modules: Enterprise-Grade Bicep Templates](https://erudinsky.com/2025/12/20/azure-verified-modules-enterprise-grade-bicep-templates/)
-- [How to Deploy a Vue.js Static Site with Azure Developer CLI &lpar;azd&rpar;](https://erudinsky.com/2025/04/28/how-to-deploy-a-vue.js-static-site-with-azure-developer-cli-azd/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://erudinsky.com)
