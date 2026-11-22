@@ -15,11 +15,11 @@ Below lists a few of the open source projects I have been involved in. These spa
 As mentioned above I love to blog, mostly around Application Security, Automation and DevOps. Below you can check out a few of my more recent posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Foundry Services Overview — Agents, Responses API, Tools, Memory and Real-World Use Cases](https://erudinsky.com/2026/06/27/foundry-services-overview-agents-responses-api-tools-memory/)
-- [Foundry Model Catalog — Comparing GPT-4.1, GPT-5, Open-Weight Models and When to Use What](https://erudinsky.com/2026/06/15/foundry-model-catalog-comparing-gpt-4-1-gpt-5-open-weight-models/)
-- [Microsoft Foundry Bicep Deep Dive: Networking, RBAC, and Deployment Types](https://erudinsky.com/2026/06/01/microsoft-foundry-bicep-deep-dive-networking-rbac-deployment-types/)
-- [Getting Started with Microsoft Foundry: Product Descriptions with GPT](https://erudinsky.com/2026/05/21/getting-started-with-microsoft-foundry-product-descriptions-with-gpt/)
-- [Two years as a Microsoft MVP: reflecting on the journey](https://erudinsky.com/2026/05/03/two-years-as-a-microsoft-mvp-reflecting-on-the-journey/)
+- [Hosted Agents and Multi-Agent Workflows in Microsoft Foundry](https://erudinsky.com/2026/11/01/foundry-hosted-agents-multi-agent-agent-framework/)
+- [Microsoft Foundry CI/CD with GitLab: Evaluation Gates and Cost Control](https://erudinsky.com/2026/10/17/foundry-cicd-gitlab-evaluation-gates-cost-monitoring/)
+- [Content Safety, Prompt Shields and AI Red Teaming in Microsoft Foundry](https://erudinsky.com/2026/10/01/foundry-content-safety-prompt-shields-ai-red-teaming/)
+- [Microsoft Foundry Evaluations and Tracing with Application Insights](https://erudinsky.com/2026/09/17/foundry-evaluations-tracing-application-insights/)
+- [RAG in Microsoft Foundry with PostgreSQL and Azure AI Search](https://erudinsky.com/2026/09/02/foundry-grounding-postgresql-rag-azure-ai-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://erudinsky.com)
